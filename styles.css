@@ -1,0 +1,15 @@
+body {
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #121212;
+}
+
+img {
+    width: 380px;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #121212;
+}
